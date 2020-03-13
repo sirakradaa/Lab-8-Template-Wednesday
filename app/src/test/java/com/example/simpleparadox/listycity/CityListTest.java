@@ -102,6 +102,6 @@ class CityListTest {
     @Test
     void testAddition() {
         int test = mockAddNumbers(2,3);
-        assertEquals(4,test);
+        assertEquals(5,test);
     }
 }
